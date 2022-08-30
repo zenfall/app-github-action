@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React HAMZE ET MOLOTECH
+          Learn React HAMZE ET MOLOTECH 2
         </a>
       </header>
     </div>
